@@ -1,3 +1,13 @@
+---
+title: Far, Far Away
+tags: [formatting]
+keywords: consectetur, exercitation, penatibus
+last_updated: July 3, 2016
+summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+sidebar: sam_sidebar
+permalink: sam-far-away
+---
+
 # Far, Far Away
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.

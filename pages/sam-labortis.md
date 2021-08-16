@@ -1,3 +1,13 @@
+---
+title: Lobortis
+tags: [formatting]
+keywords: consectetur, exercitation, penatibus
+last_updated: July 3, 2016
+summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+sidebar: sam_sidebar
+permalink: sam-labortis
+---
+
 # Lobortis a nam inceptos tempor
 
 - Malesuada turpis lobortis blandit iaculis maecenas, vulputate bibendum purus.

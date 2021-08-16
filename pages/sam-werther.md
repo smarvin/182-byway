@@ -1,3 +1,13 @@
+---
+title: Werther
+tags: [formatting]
+keywords: consectetur, exercitation, penatibus
+last_updated: July 3, 2016
+summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+sidebar: sam_sidebar
+permalink: sam-werther
+---
+
 # Werther
 
 A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.

@@ -1,3 +1,13 @@
+---
+title: Pangram
+tags: [formatting]
+keywords: consectetur, exercitation, penatibus
+last_updated: July 3, 2016
+summary: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+sidebar: sam_sidebar
+permalink: sam-pangram
+---
+
 # Pangram
 
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.
