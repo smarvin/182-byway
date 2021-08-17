@@ -5,7 +5,7 @@ keywords: perspiciatis, voluptatem, reprehenderit
 last_updated: July 3, 2016
 summary: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
 sidebar: mas_sidebar
-permalink: mas-cicero
+permalink: mas-cicero.html
 ---
 
 # Cicero
