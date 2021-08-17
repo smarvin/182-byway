@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Test 1 Sidebar
+  product: Sam sidebar
   version:
   folders:
 
@@ -51,5 +51,3 @@ entries:
     - title: Werther
       url: /sam-werther.html
       output: web, pdf
-
-  
