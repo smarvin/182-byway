@@ -23,33 +23,11 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Far, far away
-      url: /sam-far-away.html
+    - title: Cicero
+      url: /mas-cicero.html
       output: web, pdf
       type: homepage
 
-    - title: Kafka
-      url: /sam-kafka.html
+    - title: Lorem
+      url: /mas-lorem.html
       output: web, pdf
-
-    - title: Labortis
-      url: /sam-labortis.html
-      output: web, pdf
-
-    - title: Overview
-      url: /sam-oview.html
-      output: web, pdf
-
-    - title: Pangram
-      url: /sam-pangram.html
-      output: web, pdf
-
-  - title: Release Notes
-    output: web, pdf
-    folderitems:
-
-    - title: Werther
-      url: /sam-werther.html
-      output: web, pdf
-
-  
