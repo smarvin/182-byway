@@ -44,10 +44,18 @@ entries:
       url: /sam-pangram.html
       output: web, pdf
 
-  - title: Release Notes
+  - title: CI Pipeline
     output: web, pdf
     folderitems:
 
-    - title: Werther
-      url: /sam-werther.html
+    - title: Overview
+      url: /ci_overview.html
+      output: web, pdf
+
+    - title: Configuration
+      url: /ci_configuration.html
+      output: web, pdf
+
+    - title: Test
+      url: /ci_test.html
       output: web, pdf
