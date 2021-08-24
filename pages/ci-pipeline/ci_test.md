@@ -2,7 +2,6 @@
 title: testing
 keywords: CI pipeline
 sidebar: mydoc_sidebar
-toc: true
 permalink: ci_test.html
 summary: "Tag a commit in your GitHub repo to start CI pipeline testing and verification jobs."
 folder: ci-pipeline
