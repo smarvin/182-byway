@@ -1,7 +1,7 @@
 ---
 title: configuration
 keywords: CI pipeline
-sidebar: ci_sidebar
+sidebar: sam_sidebar
 summary: "Configure your GitHub repo to automate testing for your Tableau connector."
 permalink: ci_configuration.html
 folder: ci-pipeline
