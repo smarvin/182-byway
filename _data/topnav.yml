@@ -31,4 +31,4 @@ topnav_dropdowns:
         - title: Mas product
           url: /mas-cicero.html
         - title: CI Pipeline
-          url: /ci-pipeline/ci_overview.html
+          url: /ci_overview.html

@@ -229,13 +229,13 @@ entries:
 
     folderitems:
       - title: Overview
-       url: /ci-pipeline/ci_overview.html
+       url: /ci_overview.html
 
       - title: Configuration
-        url: /ci-pipeline/ci_configuration.html
+        url: /ci_configuration.html
 
       - title: Test
-        url: /ci-pipeline/ci_test.html
+        url: /ci_test.html
 
   - title: Special layouts
     output: web, pdf
