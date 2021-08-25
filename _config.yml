@@ -9,7 +9,7 @@ topnav_title: Tableau Open Source
 site_title: Tableau Connector documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: tableau
+company_name: Tableau
 # this appears in the footer
 
 github_editme_path: smarvin/182-byway/blob/gh-pages/
@@ -33,9 +33,9 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Tableau Connector documentation
 
-feedback_email: scotmarvin@gmail.com
+feedback_email: scotmarvin@salesforce.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
