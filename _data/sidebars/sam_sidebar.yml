@@ -167,7 +167,7 @@ entries:
       url: /wdc_custom_init_and_shutdown.html
       output: web, pdf
 
-    - title: Get Data: Best Practices
+    - title: Best Practices for Get Data
       url: /wdc_get_data.html
       output: web, pdf
 
