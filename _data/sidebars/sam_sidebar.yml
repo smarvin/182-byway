@@ -183,25 +183,28 @@ entries:
       url: /wdc_cors.html
       output: web, pdf
 
-    - title: Resources
-      url: /wdc_resources.html
-      output: web, pdf
+    - title: Reference
+      folderitems:
 
-    - title: Supported Date Formats
-      url: /wdc_ref_date_formats.html
-      output: web, pdf
+        - title: Resources
+          url: /wdc_resources.html
+          output: web, pdf
 
-    - title: FAQs
-      url: /wdc_faq.html
-      output: web, pdf
+        - title: Supported Date Formats
+          url: /wdc_ref_date_formats.html
+          output: web, pdf
 
-    - title: Upgrading from WDC Version 1.x
-      url: /wdc_upgrade.html
-      output: web, pdf
+        - title: FAQs
+          url: /wdc_faq.html
+          output: web, pdf
 
-    - title: Troubleshoot WDC WebEngine Issues
-      url: /wdc_webengine.html
-      output: web, pdf
+        - title: Upgrading from WDC Version 1.x
+          url: /wdc_upgrade.html
+          output: web, pdf
+
+        - title: Troubleshoot WDC WebEngine Issues
+          url: /wdc_webengine.html
+          output: web, pdf
 
   - title: CI Pipeline
     output: web, pdf
