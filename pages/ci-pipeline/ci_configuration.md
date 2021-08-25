@@ -28,6 +28,7 @@ Add each resource listed below to its associated folder, where `<connector_folde
 
 1. Open the `ci-default.json` file.
 2. Edit the following key-value pairs to reflect your resources:
+
    | Key | Value |
    | --- | ------ |
    | `connector-file-path`   | Path to your TACO file |
