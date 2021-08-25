@@ -23,7 +23,7 @@ entries:
     folderitems:
 
     - title: Tableau Connector SDK
-      url: /index.html
+      url: /connector_sdk_index.html
       output: web, pdf
       type: homepage
 
