@@ -228,14 +228,14 @@ entries:
     output: web, pdf
 
     folderitems:
-      - title: Overview
-       url: /ci_overview.html
+    - title: Overview
+      url: /ci_overview.html
 
-      - title: Configuration
-        url: /ci_configuration.html
+    - title: Configuration
+      url: /ci_configuration.html
 
-      - title: Test
-        url: /ci_test.html
+    - title: Test
+      url: /ci_test.html
 
   - title: Special layouts
     output: web, pdf
