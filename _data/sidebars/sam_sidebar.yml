@@ -49,13 +49,13 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /ci_overview.html
+      url: /ci-pipeline/ci_overview.html
       output: web, pdf
 
     - title: Configuration
-      url: /ci_configuration.html
+      url: /ci-pipeline/ci_configuration.html
       output: web, pdf
 
     - title: Test
-      url: /ci_test.html
+      url: /ci-pipeline/ci_test.html
       output: web, pdf
