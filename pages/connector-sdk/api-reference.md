@@ -1,6 +1,7 @@
 ---
 title: Connector API Reference
 keywords: Connector SDK
+tags: [reference, api]
 sidebar: sam_sidebar
 summary: "Reference documentation for the Connector SDK."
 permalink: api-reference.html

@@ -2,6 +2,7 @@
 layout: api-ref
 title: WDC API Reference
 keywords: WDC
+tags: [reference, api]
 sidebar: sam_sidebar
 summary: "Web Data Connector API reference documentation."
 permalink: api-ref.html
