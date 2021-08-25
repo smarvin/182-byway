@@ -24,11 +24,9 @@ topnav_dropdowns:
           external_url: http://idratherbewriting.com/category-jekyll/
     - title: Products
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Sam product
-          url: /sam-far-away.html
-        - title: Mas product
-          url: /mas-cicero.html
+        - title: Connector SDK
+          url: /index.html
+        - title: Web Data Connector
+          url: /wdc_index.html
         - title: CI Pipeline
           url: /ci_overview.html
