@@ -9,10 +9,6 @@ topnav:
       url: /wdc_index.html
     - title: CI Pipeline
       url: /ci_overview.html
-    - title: Release notes
-      url: /news
-    - title: GitHub
-      external_url: https://github.com/smarvin/182-byway
 
 #Topnav dropdowns
 topnav_dropdowns:
