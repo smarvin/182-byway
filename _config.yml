@@ -3,13 +3,13 @@ repository: smarvin/182-byway
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: Tableau Open Source
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: Tableau Connector documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: tableau
 # this appears in the footer
 
 github_editme_path: smarvin/182-byway/blob/gh-pages/
