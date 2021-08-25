@@ -43,69 +43,69 @@ entries:
       url: /dialect.html
       output: web, pdf
 
-   - title: Build the Connection Dialog with Connection Dialog v1
-     url: /ui.html
-     output: web, pdf
+    - title: Build the Connection Dialog with Connection Dialog v1
+      url: /ui.html
+      output: web, pdf
 
-   - title: Build the Connection Dialog with Connection Dialog v2
-     url: /mcd.html
-     output: web, pdf
+    - title: Build the Connection Dialog with Connection Dialog v2
+      url: /mcd.html
+      output: web, pdf
 
-   - title: OAuth Authentication Support
-     url: /oauth.html
-     output: web, pdf
+    - title: OAuth Authentication Support
+      url: /oauth.html
+      output: web, pdf
 
-   - title: Test with the TDVT Suite
-     url: /tdvt.html
-     output: web, pdf
+    - title: Test with the TDVT Suite
+      url: /tdvt.html
+      output: web, pdf
 
-   - title: Fixing TDVT Test Failures
-     url: /tdvt-test-case.html
-     output: web, pdf
+    - title: Fixing TDVT Test Failures
+      url: /tdvt-test-case.html
+      output: web, pdf
 
-   - title: Run Manual QA Tests
-     url: /manual-test.html
-     output: web, pdf
+    - title: Run Manual QA Tests
+      url: /manual-test.html
+      output: web, pdf
 
-   - title: Localize Your Connector
-     url: /localize.html
-     output: web, pdf
+    - title: Localize Your Connector
+      url: /localize.html
+      output: web, pdf
 
-   - title: Package and Sign Your Connector for Distribution
-     url: /package-sign.html
-     output: web, pdf
+    - title: Package and Sign Your Connector for Distribution
+      url: /package-sign.html
+      output: web, pdf
 
-   - title: Run Your Connector
-     url: /run-taco.html
-     output: web, pdf
+    - title: Run Your Connector
+      url: /run-taco.html
+      output: web, pdf
 
-   - title: Filing a Bug with the SDK
-     url: /bug-artifacts.html
-     output: web, pdf
+    - title: Filing a Bug with the SDK
+      url: /bug-artifacts.html
+      output: web, pdf
 
-   - title: API Reference
-     url: /api-reference.html
-     output: web, pdf
+    - title: API Reference
+      url: /api-reference.html
+      output: web, pdf
 
-   - title: Capabilities
-     url: /capabilities.html
-     output: web, pdf
+    - title: Capabilities
+      url: /capabilities.html
+      output: web, pdf
 
-   - title: Metadata Enumeration
-     url: /metadata-enumeration.html
-     output: web, pdf
+    - title: Metadata Enumeration
+      url: /metadata-enumeration.html
+      output: web, pdf
 
-   - title: Authentication Modes
-     url: /auth-modes.html
-     output: web, pdf
+    - title: Authentication Modes
+      url: /auth-modes.html
+      output: web, pdf
 
-   - title: Signature Verification Log Entries
-     url: /log-entries.html
-     output: web, pdf
+    - title: Signature Verification Log Entries
+      url: /log-entries.html
+      output: web, pdf
 
-   - title: Gallery Submission Guide<
-     url: /submission-guide.html
-     output: web, pdf
+    - title: Gallery Submission Guide<
+      url: /submission-guide.html
+      output: web, pdf
 
   - title: Web Data Connector
     output: web, pdf
