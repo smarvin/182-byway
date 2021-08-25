@@ -1,5 +1,5 @@
 ---
-title: testing
+title: CI Pipeline testing
 keywords: CI pipeline
 sidebar: sam_sidebar
 permalink: ci_test.html

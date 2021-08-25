@@ -2,8 +2,8 @@
 title: Tableau Connector SDK
 keywords: Connector SDK
 sidebar: sam_sidebar
-summary: "A Tableau Dialect Definition file (.tdd) maps Tableau's query language to a database’s SQL. This is an XML file with a .tdd filename extension, and is one of the main components of a Tableau connector."
-permalink: index.html
+summary: "The Tableau Connector SDK lets you create a new Tableau connector to visualize your data from any database through an ODBC or JDBC driver."
+permalink: connector_sdk_index.html
 folder: connector-sdk
 ---
 Tableau has great connectivity that allows you to visualize data from virtually anywhere. Tableau includes dozens of connectors already, and also gives you the tools to build a new connector with the Tableau Connector SDK.

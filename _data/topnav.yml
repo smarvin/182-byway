@@ -25,7 +25,7 @@ topnav_dropdowns:
     - title: Products
       folderitems:
         - title: Connector SDK
-          url: /index.html
+          url: /connector_sdk_index.html
         - title: Web Data Connector
           url: /wdc_index.html
         - title: CI Pipeline

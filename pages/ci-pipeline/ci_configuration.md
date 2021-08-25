@@ -1,16 +1,15 @@
 ---
-title: configuration
+title: CI Pipeline configuration
 keywords: CI pipeline
 sidebar: sam_sidebar
 summary: "Configure your GitHub repo to automate testing for your Tableau connector."
 permalink: ci_configuration.html
 folder: ci-pipeline
 ---
-## Configure your CI pipeline
 
 You can make changes to your repository locally or in the GitHub UI. To make your changes locally, [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) this repository to your device.
 
-### Step 1: Add your resources
+## Step 1: Add your resources
 Add each resource listed below to its associated folder, where `<connector_folder>` is the name of your connector.
 
 | Resource      | Directory |
@@ -25,7 +24,7 @@ Add each resource listed below to its associated folder, where `<connector_folde
 | (optional) Docker DB file  | `taco/<connector_folder>/docker`  |
 | (optional) Docker setup script | `taco/<connector_folder>/docker`  |
 
-### Step 2: Edit your configuration file
+## Step 2: Edit your configuration file
 
 1. Open the `ci-default.json` file.
 2. Edit the following key-value pairs to reflect your resources:
@@ -48,7 +47,7 @@ Add each resource listed below to its associated folder, where `<connector_folde
 
 To see an example of the finished configuration file, see the <a href="#config_file">example cs.json</a> file.
 
-### Step 3: Get your changes in the repo
+## Step 3: Get your changes in the repo
 
 If you are making changes locally, [commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project) and [push](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github) your changes to GitHub.
 
