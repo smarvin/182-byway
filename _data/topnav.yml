@@ -11,14 +11,14 @@ topnav:
       url: /ci_overview.html
 
 #Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
-    - title: Products
-      folderitems:
-        - title: Connector SDK
-          url: /connector_sdk_index.html
-        - title: Web Data Connector
-          url: /wdc_index.html
-        - title: CI Pipeline
-          url: /ci_overview.html
+#topnav_dropdowns:
+#- title: Topnav dropdowns
+#  folders:
+#    - title: Products
+#      folderitems:
+#        - title: Connector SDK
+#          url: /connector_sdk_index.html
+#        - title: Web Data Connector
+#          url: /wdc_index.html
+#        - title: CI Pipeline
+#          url: /ci_overview.html
