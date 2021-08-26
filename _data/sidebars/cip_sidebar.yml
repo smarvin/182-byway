@@ -3,17 +3,35 @@
 entries:
 - title: sidebar
   product: Tableau Connectors
+  version:
   folders:
 
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
   - title: CI Pipeline
-    output: web,pdf
+    output: web, pdf
     folderitems:
 
     - title: Overview
       url: /ci_overview.html
+      output: web, pdf
+      type: homepage
 
     - title: Configuration
       url: /ci_configuration.html
+      output: web, pdf
 
-    - title: Test
+    - title: Testing
       url: /ci_test.html
+      output: web, pdf
