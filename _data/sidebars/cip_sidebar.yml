@@ -19,6 +19,7 @@ entries:
       type: frontmatter
 
   - title: CI Pipeline
+    output: web,pdf 
     folderitems:
 
     - title: Overview
