@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: CI Pipeline
-  folderitems:
+  product: Tableau Connectors
+  folders:
 
   - title:
     output: pdf
@@ -18,12 +18,15 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
-    url: /ci_overview.html
-    type: homepage
+  - title: CI Pipeline
+    folderitems:
 
-  - title: Configuration
-    url: /ci_configuration.html
+    - title: Overview
+      url: /ci_overview.html
+      type: homepage
 
-  - title: Test
-    url: /ci_test.html
+    - title: Configuration
+      url: /ci_configuration.html
+
+    - title: Test
+      url: /ci_test.html

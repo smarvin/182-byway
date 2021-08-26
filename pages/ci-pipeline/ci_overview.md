@@ -1,7 +1,7 @@
 ---
 title: CI Pipeline overview
 keywords: CI pipeline
-sidebar: sam_sidebar
+sidebar: cip_sidebar
 permalink: ci_overview.html
 summary: "The continuous integration (CI) pipeline lets you test and verify your TACO files in various environments and Tableau versions."
 folder: ci-pipeline
