@@ -1,0 +1,123 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Web Data Connector
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    folderitems:
+
+    - title: Get Started
+      url: /wdc_index.html
+      output: web, pdf
+
+    - title: Tutorial
+      url: /wdc_tutorial.html
+      output: web, pdf
+
+    - title: Use a WDC in Tableau Desktop
+      url: /wdc_use_in_tableau.html
+      output: web, pdf
+
+    - title: Use a WDC in Tableau Server
+      url: /wdc_use_in_server.html
+      output: web, pdf
+
+  - title: Basic concepts
+    folderitems:
+
+    - title: Lifecycle and Phases
+      url: /wdc_phases.html
+      output: web, pdf
+
+    - title: API Versions
+      url: /wdc_library_versions.html
+      output: web, pdf
+
+    - title: Samples
+      url: /wdc_samples.html
+      output: web, pdf
+
+    - title: Debugging in the Simulator and Tableau
+      url: /wdc_debugging.html
+      output: web, pdf
+
+    - title: Hosting and Submitting to Community Portal
+      url: /wdc_hosting_and_submissions.html
+      output: web, pdf
+
+  - title: Advanced concepts
+    folderitems:
+
+    - title: Multiple Tables Tutorial
+      url: /wdc_multi_table_tutorial.html
+      output: web, pdf
+
+    - title: Node.js Proxy with OAuth Tutorial
+      url: /wdc_oauth_tutorial.html
+      output: web, pdf
+
+    - title: Standard Connections
+      url: /wdc_standard_connections.html
+      output: web, pdf
+
+    - title: Join Filtering
+      url: /wdc_join_filtering.html
+      output: web, pdf
+
+    - title: Custom Initialization and Shutdown
+      url: /wdc_custom_init_and_shutdown.html
+      output: web, pdf
+
+    - title: Best Practices for Get Data
+      url: /wdc_get_data.html
+      output: web, pdf
+
+    - title: Incremental Refresh
+      url: /wdc_incremental_refresh.html
+      output: web, pdf
+
+    - title: Authentication
+      url: /wdc_authentication.html
+      output: web, pdf
+
+    - title: Working with CORS
+      url: /wdc_cors.html
+      output: web, pdf
+
+  - title: Reference
+    folderitems:
+
+    - title: Resources
+      url: /wdc_resources.html
+      output: web, pdf
+
+    - title: Supported Date Formats
+      url: /wdc_ref_date_formats.html
+      output: web, pdf
+
+    - title: FAQs
+      url: /wdc_faq.html
+      output: web, pdf
+
+    - title: Upgrading from WDC Version 1.x
+      url: /wdc_upgrade.html
+      output: web, pdf
+
+    - title: Troubleshoot WDC WebEngine Issues
+      url: /wdc_webengine.html
+      output: web, pdf
