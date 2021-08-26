@@ -1,7 +1,7 @@
 ---
 title: WDC Working with CORS
 keywords: WDC
-sidebar: sam_sidebar
+sidebar: wdc_sidebar
 summary: "Web Data Connector API reference documentation."
 permalink: api-ref.html
 folder: wdc

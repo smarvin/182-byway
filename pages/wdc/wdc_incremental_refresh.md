@@ -1,7 +1,7 @@
 ---
 title: WDC Incremental Refresh
 keywords: WDC
-sidebar: sam_sidebar
+sidebar: wdc_sidebar
 summary: "You can use the simulator included with the WDC SDK to develop and debug your connectors more quickly."
 permalink: wdc_incremental_refresh.html
 folder: wdc

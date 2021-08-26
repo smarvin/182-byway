@@ -1,7 +1,7 @@
 ---
 title: WDC Authentication
 keywords: WDC
-sidebar: sam_sidebar
+sidebar: wdc_sidebar
 summary: "Web Data Connector authentication types."
 permalink: wdc_authentication.html
 folder: wdc

@@ -1,7 +1,7 @@
 ---
 title: Connector Example
 keywords: Connector SDK
-sidebar: sam_sidebar
+sidebar: sdk_sidebar
 summary: "A Tableau Dialect Definition file (.tdd) maps Tableau's query language to a database’s SQL. This is an XML file with a .tdd filename extension, and is one of the main components of a Tableau connector."
 permalink: example.html
 folder: connector-sdk

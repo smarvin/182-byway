@@ -100,13 +100,10 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
-- sam-sidebar
-- mas-sidebar
+- sam_sidebar
+- sdk_sidebar
+- wdc_sidebar
+- cip-sidebar
 
 description: "Documentation for the concepts, tasks, and reference needed to be build, test, and deploy a Tableau connector."
 # the description is used in the feed.xml file

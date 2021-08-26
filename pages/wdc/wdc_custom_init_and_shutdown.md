@@ -1,7 +1,7 @@
 ---
 title: WDC Custom Initialization and Shutdown
 keywords: WDC
-sidebar: sam_sidebar
+sidebar: wdc_sidebar
 summary: "Create a custom initialization for your connector."
 permalink: wdc_custom_init_and_shutdown.html
 folder: wdc

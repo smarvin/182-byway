@@ -1,7 +1,7 @@
 ---
 title: WDC Lifecycle and Phases
 keywords: WDC
-sidebar: sam_sidebar
+sidebar: wdc_sidebar
 summary: "Create a Web Data Connector (WDC) when you want to connect to a web data source from Tableau. A WDC is an HTML page
 with JavaScript code that connects to web data (for example, by means of a REST API), converts the data to a JSON format,
 and passes the data to Tableau."

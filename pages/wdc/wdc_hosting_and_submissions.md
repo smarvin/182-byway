@@ -1,7 +1,7 @@
 ---
 title: Hosting and Submitting to the Community Portal
 keywords: WDC
-sidebar: sam_sidebar
+sidebar: wdc_sidebar
 summary: "You can use the simulator included with the WDC SDK to develop and debug your connectors more quickly."
 permalink: wdc_hosting_and_submissions.html
 folder: wdc

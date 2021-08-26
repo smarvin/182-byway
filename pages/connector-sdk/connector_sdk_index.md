@@ -1,7 +1,7 @@
 ---
 title: Tableau Connector SDK
 keywords: Connector SDK
-sidebar: sam_sidebar
+sidebar: sdk_sidebar
 summary: "The Tableau Connector SDK lets you create a new Tableau connector to visualize your data from any database through an ODBC or JDBC driver."
 permalink: connector_sdk_index.html
 folder: connector-sdk

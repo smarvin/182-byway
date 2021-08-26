@@ -1,7 +1,7 @@
 ---
 title: Filing a Bug with the SDK
 keywords: Connector SDK
-sidebar: sam_sidebar
+sidebar: sdk_sidebar
 summary: "If you encounter a bug with the Tableau Connector SDK, please file it as a GitHub issue. We will take a look at it and respond as soon as we are able."
 permalink: bug-artifacts.html
 folder: connector-sdk

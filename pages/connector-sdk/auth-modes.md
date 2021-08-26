@@ -1,7 +1,7 @@
 ---
 title: Authentication Modes
 keywords: Connector SDK
-sidebar: sam_sidebar
+sidebar: sdk_sidebar
 summary: "The authentication mode chosen below influences how and when a user is prompted to enter data source credentials."
 permalink: auth-modes.html
 folder: connector-sdk

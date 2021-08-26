@@ -1,1 +1,1 @@
-The information on this page has moved to [Run Your Connector]({{ site.baseurl }}/docs/run-taco)
+The information on this page has moved to [Run Your Connector]({{ site.baseurl }}/docs/run-taco.html)

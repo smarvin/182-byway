@@ -1,7 +1,7 @@
 ---
 title: Capabilities
 keywords: Connector SDK
-sidebar: sam_sidebar
+sidebar: sdk_sidebar
 summary: "Use Tableau capabilities to customize and tune your connector behavior."
 permalink: capabilities.html
 folder: connector-sdk
