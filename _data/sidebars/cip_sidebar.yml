@@ -19,12 +19,11 @@ entries:
       type: frontmatter
 
   - title: CI Pipeline
-    output: web,pdf 
+    output: web,pdf
     folderitems:
 
     - title: Overview
       url: /ci_overview.html
-      type: homepage
 
     - title: Configuration
       url: /ci_configuration.html
