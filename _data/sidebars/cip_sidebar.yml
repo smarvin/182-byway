@@ -5,19 +5,6 @@ entries:
   product: Tableau Connectors
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
-
   - title: CI Pipeline
     output: web,pdf
     folderitems:
