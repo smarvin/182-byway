@@ -19,15 +19,25 @@ entries:
       output: pdf
       type: frontmatter
 
-    - title: Overview
-      url: /ci_overview.html
-      output: web, pdf
-      type: homepage
+    - title: Getting started
+      folderitems:
 
-    - title: Configuration
-      url: /ci_configuration.html
-      output: web, pdf
+      - title: Overview
+        url: /ci_overview.html
+        output: web, pdf
+        type: homepage
+
+      - title: Configuration
+        url: /ci_configuration.html
+        output: web, pdf
 
     - title: Testing
-      url: /ci_test.html
-      output: web, pdf
+      folderitems:
+
+      - title: Testing
+        url: /ci_test.html
+        output: web, pdf
+
+      - title: Tuning
+        url: /ci_tuning.html
+        output: web, pdf
