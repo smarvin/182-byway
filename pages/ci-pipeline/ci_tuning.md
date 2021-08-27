@@ -2,7 +2,7 @@
 title: CI Pipeline tuning
 keywords: CI pipeline
 sidebar: cip_sidebar
-permalink: ci_tune.html
+permalink: ci_tuning.html
 summary: "Steps to take if your connector isn't valid."
 folder: ci-pipeline
 ---
