@@ -3,6 +3,7 @@
 entries:
 - title: sidebar
   product: Tableau Connectors
+  version:
   folders:
 
   - title:
@@ -18,9 +19,9 @@ entries:
       output: pdf
       type: frontmatter
 
- - title: Connector SDK
-   output: web, pdf
-   folderitems:
+  - title: Connector SDK
+    output: web, pdf
+    folderitems:
 
     - title: Overview
       output: web, pdf
