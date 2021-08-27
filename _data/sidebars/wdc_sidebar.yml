@@ -20,6 +20,7 @@ entries:
       type: frontmatter
 
   - title: Overview
+    output: web, pdf
     folderitems:
 
     - title: Get Started
@@ -39,6 +40,7 @@ entries:
       output: web, pdf
 
   - title: Basic concepts
+    output: web, pdf
     folderitems:
 
     - title: Lifecycle and Phases
@@ -62,6 +64,7 @@ entries:
       output: web, pdf
 
   - title: Advanced concepts
+    output: web, pdf
     folderitems:
 
     - title: Multiple Tables Tutorial
@@ -101,6 +104,7 @@ entries:
       output: web, pdf
 
   - title: Reference
+    output: web, pdf
     folderitems:
 
     - title: Resources

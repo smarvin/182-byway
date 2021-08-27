@@ -33,6 +33,7 @@ entries:
       output: web, pdf
 
   - title: Basic concepts
+    output: web, pdf
     folderitems:
 
     - title: Design Considerations
@@ -88,6 +89,7 @@ entries:
       output: web, pdf
 
   - title: Reference
+    output: web, pdf
     folderitems:
 
     - title: API Reference
