@@ -68,35 +68,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages/connector-sdk"
+      type: "pages"
     values:
       layout: "page"
       comments: true
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
-      sidebar: sdk_sidebar
-      topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "pages/wdc"
-    values:
-      layout: "page"
-      comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
-      sidebar: wdc_sidebar
-      topnav: topnav
-  -
-    scope:
-      path: ""
-      type: "pages/ci-pipeline"
-    values:
-      layout: "page"
-      comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
-      sidebar: cip_sidebar
+      sidebar: home_sidebar
       topnav: topnav
   -
     scope:

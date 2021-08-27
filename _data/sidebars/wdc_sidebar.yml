@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Overview
-      folderitems:
+      subfolderitems:
 
       - title: Get Started
         url: /wdc_index.html
@@ -43,7 +43,7 @@ entries:
         output: web, pdf
 
     - title: Basic concepts
-      folderitems:
+      subfolderitems:
 
       - title: Lifecycle and Phases
         url: /wdc_phases.html
@@ -66,7 +66,7 @@ entries:
         output: web, pdf
 
     - title: Advanced concepts
-      folderitems:
+      subfolderitems:
 
       - title: Multiple Tables Tutorial
         url: /wdc_multi_table_tutorial.html
@@ -105,7 +105,7 @@ entries:
         output: web, pdf
 
     - title: Reference
-      folderitems:
+      subfolderitems:
 
       - title: Resources
         url: /wdc_resources.html

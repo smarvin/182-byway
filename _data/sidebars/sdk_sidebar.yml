@@ -25,7 +25,7 @@ entries:
 
     - title: Overview
       output: web, pdf
-      folderitems:
+      subfolderitems:
 
       - title: Tableau Connector SDK
         url: /connector_sdk_index.html
@@ -37,7 +37,7 @@ entries:
         output: web, pdf
 
     - title: Basic concepts
-      folderitems:
+      subfolderitems:
 
       - title: Design Considerations
         url: /design.html
@@ -92,7 +92,7 @@ entries:
         output: web, pdf
 
     - title: Reference
-      folderitems:
+      subfolderitems:
 
       - title: API Reference
         url: /api-reference.html
