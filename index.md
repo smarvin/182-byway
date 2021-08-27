@@ -20,8 +20,8 @@ folder: product1
                 </div>
                 <div class="panel-body">
                     <h4>Connector SDK</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <p>Use the Connector SDK to create a new connector.</p>
+                    <a href="connector_sdk_index.html" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
@@ -35,8 +35,8 @@ folder: product1
                 </div>
                 <div class="panel-body">
                     <h4>Web Data Connector</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <p>Create a WDC to connect to a web data source from Tableau.</p>
+                    <a href="wdc_index.html" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
@@ -50,8 +50,8 @@ folder: product1
                 </div>
                 <div class="panel-body">
                     <h4>CI Pipeline</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <p>Use the CI Pipeline to automate your connector testing.</p>
+                    <a href="ci_overview.html" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
