@@ -98,7 +98,7 @@ defaults:
       search: true
       sidebar: cip_sidebar
       topnav: topnav
-    -
+  -
     scope:
       path: ""
       type: "tooltips"
