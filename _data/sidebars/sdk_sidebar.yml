@@ -20,6 +20,7 @@ entries:
       type: frontmatter
 
   - title: Connector Plugin SDK
+    output: web, pdf
     foleritems:
 
     - title: Overview
