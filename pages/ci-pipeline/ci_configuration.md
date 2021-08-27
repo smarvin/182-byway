@@ -53,3 +53,5 @@ To see an example of the finished configuration file, see the <a href="#config_f
 If you are making changes locally, [commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project) and [push](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/pushing-changes-to-github) your changes to GitHub.
 
 If you are making changes in the GitHub UI, add a description of your changes in the **Commit changes** area and click the **Commit changes** button.
+
+Once you have finished with the configuration tasks, you can [start an automated test](ci_test.html).
