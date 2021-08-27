@@ -95,3 +95,5 @@ The workflow consists of the following actions:
 5. Show reference information
 6. Post-workflow setup
 7. Complete job
+
+Now that you know more about the CI Pipeline, you can [configure your GitHub repository](ci_configuration.html) to automate your connector testing.
