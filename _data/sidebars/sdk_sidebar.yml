@@ -3,6 +3,7 @@
 entries:
 - title: sidebar
   product: Tableau Connectors
+  version:
   folders:
 
   - title:
