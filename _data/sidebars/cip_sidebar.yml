@@ -20,7 +20,9 @@ entries:
       type: frontmatter
 
   - title: Getting started
+    output: web, pdf
     folderitems:
+
     - title: Overview
       url: /ci_overview.html
       output: web, pdf
@@ -31,6 +33,7 @@ entries:
       output: web, pdf
 
   - title: Testing
+    output: web, pdf
     folderitems:
 
     - title: Testing
