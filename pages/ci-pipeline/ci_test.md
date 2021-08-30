@@ -22,7 +22,13 @@ The following sample tag for a connector in the `taco.postgres-unpackaged-jdbc-e
 ```taco.postgres-unpackaged-jdbc-example.0824.01```
 
 ## Monitor the job
-You can monitor the pipeline job in the GitHub repo. Go to **Actions**, then click **TACO PIPELINE**.
+
+After creating a release, GitHub starts the action workflow for the pipeline. The workflow details contain a generated submission ID generated. You can use this ID to refer to the validation results.
+
+To monitor the pipeline workflow, go to **Actions**, then click **TACO PIPELINE**.
+
+<img src="images/connectivity_ci_action.png" alt="GitHub screen for the Taco pipeline workflow" /"
+
 <!-- Include email, attachments (possibly show example of each), and also add section for Tuning/Fixing problems. -->
 
 
