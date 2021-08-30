@@ -39,10 +39,10 @@ To verify your results, you can do one of the following.
 
 ### Email attachments
 Use the validation email attachments.
-<img src="images/connectivity_ci_pipeline_email.jpg" alt="" />
+<img src="images/connectivity_ci_pipeline_email.jpg" alt="Sample email text showing associated test result attachments" />
 
 ### Use the Tableau workbook
 If your outbound IPs are on the Tableau VPC allowed list, you can see the test results in a Tableau workbook.
-<img src="images/connectivity_ci_workbook.png" 
+<img src="images/connectivity_ci_workbook.png" alt="Sample test results in Tableau workbook">
      
 If your test passed, your connector is valid and ready for use. If the test results showed errors, you can [tune your connector configuration](tuning.html).
