@@ -11,6 +11,16 @@ To test your connector, you must tag a commit with a version and then commit the
 ## Create a tag
 When you [create a tag](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) for your connector, you start the CI pipeline. The results of the pipeline are emailed to the address you [configured earlier](./ci_configuration.html).
 
+ * Make sure that your tag is the folder path to the ci.json config. 
+   For example, `taco.postgres-unpackaged-jdbc-example`.
+ * Append a unique suffix to the tag. We recommend that you use the *date* and then a *build number*.
+   For example, `0824.01`.
+ * Every tag must be unique. To create more builds, increase the tag build number by 1. For example, `01`, `02`, `03`.
+
+The following sample tag for a connector in the `taco.postgres-unpackaged-jdbc-example` folder will start the pipeline: 
+
+```taco.postgres-unpackaged-jdbc-example.0824.01```
+
 ## Monitor the job
 You can monitor the pipeline job in the GitHub repo. Go to **Actions**, then click **TACO PIPELINE**.
 <!-- Include email, attachments (possibly show example of each), and also add section for Tuning/Fixing problems. -->
