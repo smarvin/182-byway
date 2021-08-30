@@ -37,7 +37,7 @@ When the workflow is done, the pipeline sends an email to the addresses configur
 
 To verify your results, you can do one of the following.
 
-### Email attachments
+### Use the email and attachments
 Use the validation email attachments.
 <img src="images/connectivity_ci_pipeline_email.jpg" alt="Sample email text showing associated test result attachments" />
 
