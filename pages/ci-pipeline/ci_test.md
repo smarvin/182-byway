@@ -27,7 +27,7 @@ After creating a release, GitHub starts the action workflow for the pipeline. Th
 
 To monitor the pipeline workflow, go to **Actions**, then click **TACO PIPELINE**.
 
-<img src="images/connectivity_ci_action.png" alt="GitHub screen for the Taco pipeline workflow" /"
+<img src="images/connectivity_ci_action.png" alt="GitHub screen for the Taco pipeline workflow" />
 
 <!-- Include email, attachments (possibly show example of each), and also add section for Tuning/Fixing problems. -->
 
