@@ -44,3 +44,5 @@ Use the validation email attachments.
 ###Use the Tableau workbook
 If your outbound IPs are on the Tableau VPC allowed list, you can see the test results in a Tableau workbook.
 <img src="images/connectivity_ci_workbook.png" 
+     
+If your test passed, your connector is valid and ready for use. If the test results showed errors, you can [tune your connector configuration](tuning.html).
