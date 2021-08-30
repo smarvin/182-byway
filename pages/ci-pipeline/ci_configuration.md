@@ -42,6 +42,7 @@ Add each resource listed below to its associated folder, where `<connector_folde
    | `password-files-path` | Path to your password files (need to explain) |
    | `file-path` | Path to your Docker DB |
    | `setup-script-file-path` |Path to your Docker setup script  |
+   | `result-receiver` | Email addresses to send test results |
 
 3. Save the file as `ci.json`.
 4. Repeat for any other connector.
