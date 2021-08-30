@@ -31,12 +31,16 @@ To monitor the pipeline workflow, go to **Actions**, then click **TACO PIPELINE*
 
 <!-- Include email, attachments (possibly show example of each), and also add section for Tuning/Fixing problems. -->
 
+When the workflow is done, the pipeline sends an email to the addresses configured in the [ci.json](./ci_configuration.html) file.
 
 ## Verify the results
 
-To verify your results, you can do either of the following:
+To verify your results, you can do one of the following.
 
-* Use the validation result email to get the submission ID.
+###Email attachments
+Use the validation email attachments.
 <img src="images/connectivity_ci_pipeline_email.jpg" alt="" />
-* Use the Tableau workbook.
-<img src="images/connectivity_ci_workbook.png" alt="" />
+
+###Use the Tableau workbook
+If your outbound IPs are on the Tableau VPC allowed list, you can see the test results in a Tableau workbook.
+<img src="images/connectivity_ci_workbook.png" 
