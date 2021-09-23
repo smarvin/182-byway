@@ -114,3 +114,5 @@ baseurl: /182-byway
 
 
 github: [metadata]
+
+theme: jekyll-theme-minimal
