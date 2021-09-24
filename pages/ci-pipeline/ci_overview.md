@@ -34,49 +34,39 @@ The repo also contains the configuration file for your CI TACO pipeline. This fi
 The [GitHub action workflow](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions) uses your `ci.json` file to run validation workflow. The following is a sample configuration file.
 <a id="config_file"></a>
 ```json
-    {
-    "connector": {
-      "connector-file-path": "taco/memsql-packaged/connector/MEMSQLTACOPACKAGED.taco"
-    },
-    "driver": {
-      "skip": false,
-      "type": "odbc",
-      "driver-file-path": "taco/memsql-packaged/driver/centos/mysql-connector-odbc-8.0.13-1.el7.x86_64.rpm",
-      "setup-script-file-path": "taco/memsql-packaged/driver/centos/partnerODBCSetup-centos.sh",
-      "driver-dependency-files-path": [
-          "taco/memsql-packaged/driver/centos/libmyodbc8w.so"
-          "taco/memsql-packaged/driver/centos/partnerODBCConfig.ini"
-      ]
-    },
-    "os": "centos",
-    "builds": [
-      "near"
+{
+  "connector": {
+    "connector-file-path": "taco/postgres-packaged-jdbc/connector/unsigned_postgres_jdbc.taco"
+  },
+  "driver": {
+    "skip": false,
+    "type": "jdbc",
+    "driver-file-path": "taco/postgres-packaged-jdbc/driver/postgresql-42.2.5.jar",
+    "setup-script-file-path": "",
+    "driver-dependency-files-path": []
+  },
+  "os": "centos",
+  "min-tableau-version": "tableau-2021-3",
+  "tdvt": {
+    "skip": false,
+    "connector-name": "partner_postgres_jdbc_packaged",
+    "test-suite-name": "postgres_jdbc_unsigned_taco",
+    "test-config-files-path": [
+      "taco/postgres-packaged-jdbc/tdvt/config/postgres_jdbc_unsigned_taco.ini"
     ],
-    "tdvt": {
-      "skip": false,
-      "connector-name": "memsql_taco_packaged",
-      "test-suite-name": "MEMSQLTACOPACKAGED",
-      "test-config-files-path": [
-        "taco/memsql-packaged/tdvt/config/MEMSQLTACOPACKAGED.ini"
-      ],
-      "tds-files-path": [
-        "taco/memsql-packaged/tdvt/tds/cast_calcs.MEMSQLTACOPACKAGED.tds",
-        "taco/memsql-packaged/tdvt/tds/Staples.MEMSQLTACOPACKAGED.tds"
-      ],
-      "password-files-path": [
-          "taco-memsql-packaged/tdvt/password/MEMSQLTACOPACKAGED_badpassword.password",
-          "taco-memsql-packaged/tdvt/password/MEMSQLTACOPACKAGED.password"
-      ]
-    },
-    "docker-db": {
-      "skip": true,
-      "file-path": "",
-      "setup-script-file-path": ""
-    },
-    "result-receiver": [
-      "ConnectivityCI@tableau.com"
+    "tds-files-path": [
+      "taco/postgres-packaged-jdbc/tdvt/tds/cast_calcs.postgres_jdbc_unsigned_taco.tds"
+    ],
+    "password-files-path": [
+      "taco/postgres-packaged-jdbc/tdvt/password/postgres_jdbc_unsigned_taco.password"
     ]
+  },
+  "docker-db": {
+    "skip": true,
+    "file-path": "",
+    "setup-script-file-path": ""
   }
+}
 ```
 
 ## How the CI pipeline works
