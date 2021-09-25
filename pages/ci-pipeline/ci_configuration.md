@@ -20,9 +20,7 @@ Add each resource listed below to its associated folder, where `<connector_folde
 | Driver dependency files  | `taco/<connector_folder>/driver/<os>`  |
 | Test configuration files  |  `taco/<connector_folder>/tdvt/config` |
 | Calcs and staples tables  | `taco/<connector_folder>/tdvt/tds`  |
-| Password files  | `taco/<connector_folder>/tdvt/password`  |
-| (optional) Docker DB file  | `taco/<connector_folder>/docker`  |
-| (optional) Docker setup script | `taco/<connector_folder>/docker`  |
+| (optional) Password files  | `taco/<connector_folder>/tdvt/password`  |
 
 ## Step 2: Edit your configuration file
 
