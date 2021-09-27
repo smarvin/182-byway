@@ -24,8 +24,8 @@ Add each resource listed below to its associated folder, where `<connector_folde
 
 ## Step 2: Edit your configuration file
 
-1. Open the `ci-default.json` file.
-2. Edit the following key-value pairs to reflect your resources:
+1. `ci.json` file is the configuration for Github Action workflow.
+2. Open the `ci.json` file for each connector and edit the following key-value pairs to reflect your resources:
 
    | Key | Value |
    | --- | ------ |
@@ -42,8 +42,7 @@ Add each resource listed below to its associated folder, where `<connector_folde
    | `setup-script-file-path` |Path to your Docker setup script  |
    | `result-receiver` | Email addresses to send test results |
 
-3. Save the file as `ci.json`.
-4. Repeat for any other connector.
+3. Commit the file changes, and trigger the Github Action workflow to validate.
 
 To see an example of the finished configuration file, see the <a href="#config_file">example cs.json</a> file.
 
