@@ -30,19 +30,17 @@ Add each resource listed below to its associated folder, where `<connector_folde
    | Key | Value |
    | --- | ------ |
    | `connector-file-path`   | Path to your TACO file |
-   |`driver-file-path`  | Path to your driver file |
+   | `driver-file-path`  | Path to your driver file |
    | `setup-script-file-path` | Path to your setup script file |
    | `driver-dependency-files-path` | Path to your dependency files |
    | `connector-name` | Name of the your connector |
    | `test-suite-name` | Test suite name |
    | `test-config-files-path` | Path to your configuration file |
    | `tds-files-path` | Path to your TDS files  |
-   | `password-files-path` | Path to your password files (need to explain) |
-   | `file-path` | Path to your Docker DB |
-   | `setup-script-file-path` |Path to your Docker setup script  |
+   | `password-files-path` | Path to your tdvt password files |
    | `result-receiver` | Email addresses to send test results |
 
-3. Commit the file changes, and trigger the Github Action workflow to validate.
+3. Commit the file changes, and create a new release from Github UI or push a new git tag to the repository to trigger the Github Action workflow to validate.
 
 To see an example of the finished configuration file, see the <a href="#config_file">example cs.json</a> file.
 
